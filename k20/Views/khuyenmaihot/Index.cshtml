@@ -1,0 +1,60 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+    ViewBag.title = "Khuyến mãi";
+
+}
+
+<br />
+
+<h1 style="text-align:center">Thời Gian Khuyến Mãi Còn: </h1>
+<div id="timer" style="font-size: 35px; color: #7E44E3; border: 5px; text-align: center ; border:red;"></div>
+
+<script>
+    // Set the date we're counting down to
+    var countDownDate = new Date("Mar 31, 2023 23:59:59").getTime();
+
+    // Update the count down every 1 second
+    var x = setInterval(function () {
+
+        // Get today's date and time
+        var now = new Date().getTime();
+
+        // Find the distance between now and the countdown date
+        var distance = countDownDate - now;
+
+        // Time calculations for days, hours, minutes and seconds
+        var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+        // Display the result in the element with id="timer"
+        document.getElementById("timer").innerHTML = days + " Ngày " + hours + " Giờ "
+            + minutes + " Phút " + seconds + " Giây ";
+
+        // If the count down is finished, write some text
+        if (distance < 0) {
+            clearInterval(x);
+            document.getElementById("timer").innerHTML = "EXPIRED";
+        }
+    }, 1000);
+</script>
+
+
+<section class="wrapper page1 kvs kvs__3159 c3 video">
+    <div class="bg" style="height: 577px; background-image: url(&quot;https://cdn.tgdd.vn/2023/03/campaign/Camera-1-1920x577.png&quot;);">
+    </div>
+</section>
+<br />
+
+
+
+<section class="wrapper page1 kvs kvs__3169 c4 video">
+    <div class="bg" style="height: 574px; background-image: url(&quot;https://cdn.tgdd.vn/2023/03/campaign/120HZ-1920x574.png&quot;);">
+    </div>
+</section>
+<br />
+
+<div class="bg" style="height: 818px; background-image: url(&quot;https://cdn.tgdd.vn/2023/03/campaign/Thiet-ke-mau-sac-1920x818.png&quot;);">
+</div>
