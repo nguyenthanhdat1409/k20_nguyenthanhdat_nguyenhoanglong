@@ -6,30 +6,44 @@ namespace k20.Models
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
 
-    [Table("DienThoai")]
-    public partial class DienThoai
+    [Table("dienthoai")]
+    public partial class dienthoai
     {
-        public int ID { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
+        public dienthoai()
+        {
+            CHITIETDONHANGs = new HashSet<CHITIETDONHANG>();
+        }
 
-        [StringLength(50)]
-        public string Ten { get; set; }
+        [Key]
+        public int MAdienthoai { get; set; }
 
-        [StringLength(50)]
-        public string HangSanXuat { get; set; }
+        [Required]
+        [StringLength(200)]
+        public string TENdienthoai { get; set; }
 
-        public int? NamSanXuat { get; set; }
+        public decimal GIABAN { get; set; }
 
-        [Column(TypeName = "money")]
-        public decimal? Gia { get; set; }
+        [Required]
+        public string MOTA { get; set; }
 
-        [StringLength(50)]
-        public string Hinh { get; set; }
+        [Required]
+        [StringLength(200)]
+        public string ANHBIA { get; set; }
 
-        [StringLength(50)]
-        public string MoTa { get; set; }
+        public DateTime? NGAYCAPNHAT { get; set; }
 
-        public int? MaKH { get; set; }
+        public int SOLUONGTON { get; set; }
 
-        public virtual KhachHang KhachHang { get; set; }
+        public int? manhasanxuat { get; set; }
+
+        public double? SALE { get; set; }
+
+        public int? TRONGLUONG { get; set; }
+
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<CHITIETDONHANG> CHITIETDONHANGs { get; set; }
+
+        public virtual nhasanxuat nhasanxuat { get; set; }
     }
 }

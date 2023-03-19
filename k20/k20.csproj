@@ -134,14 +134,17 @@
     <Compile Include="Controllers\fashionController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\jewelleryController.cs" />
-    <Compile Include="Controllers\KhachHangController.cs" />
     <Compile Include="Controllers\khuyenmaihotController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Models\DienThoai.cs" />
-    <Compile Include="Models\KhachHang.cs" />
+    <Compile Include="Models\ADMIN.cs" />
+    <Compile Include="Models\CHITIETDONHANG.cs" />
+    <Compile Include="Models\dienthoai.cs" />
+    <Compile Include="Models\DONDATHANG.cs" />
+    <Compile Include="Models\KHACHHANG.cs" />
     <Compile Include="Models\Model1.cs" />
+    <Compile Include="Models\nhasanxuat.cs" />
     <Compile Include="Models\sysdiagram.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
