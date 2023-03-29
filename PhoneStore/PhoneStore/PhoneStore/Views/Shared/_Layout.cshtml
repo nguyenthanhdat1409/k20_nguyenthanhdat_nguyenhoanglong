@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html>
+<head style="margin:0 20px;">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</head>
+<body style="margin:2px 20px;">
+    <div class="navbar navbar-inverse navbar-fixed-top"
+<img src="~/images/banner-bg.png" />"">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+            </div>
+            <div class="navbar-collapse collapse" style="height:20px;">
+                <ul class="nav navbar-nav" style="font-size:15px;">
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("About", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                    <li><a href="~/Phone/ViewCart"><ion-icon name="cart-outline" style="color:red; font-size:20px;"></ion-icon></a></li>
+
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+  
+        @RenderBody()
+        
+        <footer style="font-size:20px; text-align:center; color:black; background-color:yellow;border-radius:px;">
+            <p>Cảm ơn quý khách đã tin tưởng và ủng hộ</p>
+            <p>Phone Store BA ANH EM <ion-icon name="heart-outline" style="color:red;"></ion-icon> </p>
+            <a href="https://www.facebook.com/profile.php?id=100065084714229"><ion-icon name="logo-facebook">NTD</ion-icon> </a>
+            <a href="https://www.tiktok.com">Nguyễn Thành Đạt - Nguyễn Hoàng Long - Trần Thành Long <ion-icon name="logo-tumblr"></ion-icon></a>
+            <p>&copy; @DateTime.Now.Year - 58/2c Trương Văn Thành, P. Hiệp Phú, Quận 9, TP.HCM</p>
+        </footer>
+    
+
+  
+</body>
+</html>
