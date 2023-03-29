@@ -9,14 +9,14 @@
     <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
 
+    <link href="C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\css\login.css"rel="stylesheet" />
 
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")
     @RenderSection("scripts", required: false)
 </head>
 <body style="margin:2px 20px;">
-    <div class="navbar navbar-inverse navbar-fixed-top"
-<img src="~/images/banner-bg.png" />"">
+    <div class="navbar navbar-inverse navbar-fixed-top">
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -26,8 +26,8 @@
                 </button>
 
             </div>
-            <div class="navbar-collapse collapse" style="height:20px;">
-                <ul class="nav navbar-nav" style="font-size:15px;">
+            <div class="navbar-collapse collapse" style="height:20px; background-image:url('C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\images\banner-bg.png');">
+                <ul class="nav navbar-nav" style="font-size: 15px ">
                     <li>@Html.ActionLink("Home", "Index", "Home")</li>
                     <li>@Html.ActionLink("About", "About", "Home")</li>
                     <li>@Html.ActionLink("Contact", "Contact", "Home")</li>

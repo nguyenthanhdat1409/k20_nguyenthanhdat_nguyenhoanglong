@@ -1944,6 +1944,7 @@
     <Content Include="css\jquery.fancybox.min.css" />
     <Content Include="css\jquery.mCustomScrollbar.min.css" />
     <Content Include="css\light.css" />
+    <Content Include="css\login.css" />
     <Content Include="css\login_web.css" />
     <Content Include="css\meanmenu.css" />
     <Content Include="css\nice-select.css" />
