@@ -1953,6 +1953,7 @@
     <Content Include="css\responsive.css" />
     <Content Include="css\slick.css" />
     <Content Include="css\style.css" />
+    <Content Include="css\StyleSheet1.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
