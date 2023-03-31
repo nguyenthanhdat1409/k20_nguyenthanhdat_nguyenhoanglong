@@ -466,7 +466,7 @@
         <th>
             @Html.DisplayNameFor(model => model.PhoneImg)
         </th>
-        <th></th>
+
     </tr>
 
     <div class="listing-cate">
@@ -488,6 +488,8 @@
                         @Html.DisplayFor(modelItem => item.PhoneName)
                     </p>
                     <span>Đang bán chạy</span>
+                    @Html.ActionLink("Buy", "AddCart", new { id = item.PhoneID })|
+                    @Html.ActionLink("Details", "Details", new { id = item.PhoneID })|
                 </a>
             </div>
         }

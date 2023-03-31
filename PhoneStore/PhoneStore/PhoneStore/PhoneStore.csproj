@@ -1954,6 +1954,7 @@
     <Content Include="css\slick.css" />
     <Content Include="css\style.css" />
     <Content Include="css\StyleSheet1.css" />
+    <Content Include="css\tiemkiem.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -2239,6 +2240,8 @@
     <Content Include="Views\Phone\Details.cshtml" />
     <Content Include="Views\Phone\ViewCart.cshtml" />
     <Content Include="Views\Phone\Index1.cshtml" />
+    <Content Include="Views\Phone\Sort.cshtml" />
+    <Content Include="Views\Phone\SortIncreasing.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

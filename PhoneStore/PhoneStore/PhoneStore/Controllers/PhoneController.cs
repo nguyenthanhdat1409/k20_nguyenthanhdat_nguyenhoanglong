@@ -25,6 +25,21 @@ namespace PhoneStore.Controllers
             List<Phone> listPhone = dbContext.Phones.ToList();
             return View(listPhone);
         }
+        public ActionResult Sort()
+        {
+            List<Phone> listPhone = dbContext.Phones.OrderByDescending(m=>m.Price).ToList();
+            return View(listPhone);
+        }
+        public ActionResult SortIncreasing()
+        {
+            List<Phone> listPhone = dbContext.Phones.OrderBy(m => m.Price).ToList();
+            return View(listPhone);
+        }
+        public ActionResult FindNamePhone(string Name)
+        {
+            List<Phone> listPhone = dbContext.Phones.Where(m => m.PhoneName == Name ).ToList();
+            return View(listPhone);
+        }
         public ActionResult Details(int? id)
         {
             if (id == null)
