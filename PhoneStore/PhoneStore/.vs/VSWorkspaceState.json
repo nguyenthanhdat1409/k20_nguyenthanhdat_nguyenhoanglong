@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PhoneStore",
+    "\\PhoneStore\\Views",
+    "\\PhoneStore\\Views\\Account",
+    "\\PhoneStore\\Views\\Phone"
+  ],
+  "SelectedNode": "\\PhoneStore\\Views\\Phone\\ViewCart.cshtml",
+  "PreviewInSolutionExplorer": false
+}
