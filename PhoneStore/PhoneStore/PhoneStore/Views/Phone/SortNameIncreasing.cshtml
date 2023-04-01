@@ -1,0 +1,51 @@
+﻿@model IEnumerable<PhoneStore.Models.Phone>
+
+@{
+    ViewBag.Title = "SortNameIncreasing";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>SortNameIncreasing</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Manufacturer.ManufacturerName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PhoneName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PhoneImg)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Manufacturer.ManufacturerName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PhoneName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            <img src="@item.PhoneImg" alt="">
+        </td>
+        <td>
+            @Html.ActionLink("Buy", "AddCart", new { id = item.PhoneID })|
+            @Html.ActionLink("Details", "Details", new { id = item.PhoneID })|
+        </td>
+    </tr>
+}
+
+</table>
