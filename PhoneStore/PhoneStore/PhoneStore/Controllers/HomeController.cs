@@ -10,7 +10,7 @@ namespace PhoneStore.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            return RedirectToAction("Index", "Phone");
         }
 
         public ActionResult About()

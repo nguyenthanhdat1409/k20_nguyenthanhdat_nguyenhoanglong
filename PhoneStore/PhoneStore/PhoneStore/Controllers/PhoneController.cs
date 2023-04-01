@@ -47,8 +47,8 @@ namespace PhoneStore.Controllers
         }
         public ActionResult FindPhoneName(string phoneName)
         {
-            List<Phone> listPhone = dbContext.Phones.Where(m=>m.PhoneName == phoneName).ToList();
-            return View(listPhone);
+            var results = dbContext.Phones.Where(p => p.PhoneName.Contains(phoneName)).ToList();
+            return View(results);
         }
 
        

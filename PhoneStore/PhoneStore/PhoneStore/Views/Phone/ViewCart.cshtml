@@ -21,7 +21,7 @@
     <h3>Cart Page</h3>
     <table cellpadding="2" cellspacing="2" border="1">
         <tr>
-            
+
             <th>PhoneId</th>
             <th>PhoneName</th>
             <th>Price</th>
@@ -30,41 +30,45 @@
             <th>Sub Total</th>
         </tr>
 
-        @if (Session["cart"] == null)
+        @if ((List<Item>)Session["cart"] == null)
         {
-<tr>
-    Empty product in Cart
-</tr>
-}
-
-        @foreach (Item item in (List<Item>)Session["cart"])
+            <tr>
+                Empty product in Cart
+            </tr>
+        }
+        else
         {
-<tr>
-    <td><a href="@Url.Action("Remove", "Phone", new { id = item.Phone.PhoneID })">Remove</a></td>
-    <td>@item.Phone.PhoneID</td>
-    <td>@item.Phone.PhoneName</td>
-    <td><img src="@item.Phone.PhoneImg" width="60" /> </td>
-    <td>@item.Phone.Price</td>
-    <td>
-        <form action="/Phone/UpdateCart" method="post">
-            <input type="number" min="1" name="Quantity" value="@item.Quantity" />
-            <input type="hidden" value="@item.Phone.PhoneID" name="PhoneID" />
-            <input type="submit" value="Update" />
-        </form>
-    </td>
+            foreach (Item item in (List<Item>)Session["cart"])
+            {
+                <tr>
+                    <td><a href="@Url.Action("Remove", "Phone", new { id = item.Phone.PhoneID })">Remove</a></td>
+                    <td>@item.Phone.PhoneID</td>
+                    <td>@item.Phone.PhoneName</td>
+                    <td><img src="@item.Phone.PhoneImg" width="60" /> </td>
+                    <td>@item.Phone.Price</td>
+                    <td>
+                        <form action="/Phone/UpdateCart" method="post">
+                            <input type="number" min="1" name="Quantity" value="@item.Quantity" />
+                            <input type="hidden" value="@item.Phone.PhoneID" name="PhoneID" />
+                            <input type="submit" value="Update" />
+                        </form>
+                    </td>
 
-    <td>@(item.Phone.Price * item.Quantity)</td>
+                    <td>@(item.Phone.Price * item.Quantity)</td>
 
-</tr>
-}
-        <tr>
-            <td align="right" colspan="6">Sum</td>
-            <td>
-                @{ List<Item> cart = (List<Item>)Session["cart"];
-                    var total = cart.Sum(item => item.Phone.Price * item.Quantity); }
-                @total
-            </td>
-        </tr>
+                </tr>
+            }
+            <tr>
+                <td align="right" colspan="6">Sum</td>
+                <td>
+                    @{ List<Item> cart = (List<Item>)Session["cart"];
+                        var total = cart.Sum(item => item.Phone.Price * item.Quantity); }
+                    @total
+                </td>
+            </tr>
+        }
+
+
     </table>
     <br>
     <a href="@Url.Action("Index", "Phone")">Continue Shopping</a>

@@ -11,8 +11,8 @@
 
     <link href="C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\css\login.css" rel="stylesheet" />
     <link href="C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\css\login.css" rel="stylesheet" />
-    @Scripts.Render("~/bundles/jquery")
-    @Scripts.Render("~/bundles/bootstrap")
+    @*@Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")*@
     @RenderSection("scripts", required: false)
 
    <link href="C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\css\tiemkiem.css" rel="stylesheet"/>
@@ -36,12 +36,16 @@
                     <li><a href="~/Phone/ViewCart"><ion-icon name="cart-outline" style="color:red; font-size:20px;"></ion-icon></a></li>
 
                 </ul>
-                <form class="form" style="padding-top:7px;padding-right:5px;">
-                    <label for="search">
-                        <input class="input" type="text" required="" placeholder="Search Phone Name..." id="search" style="border-radius: 5px; height: auto;">
-                        <button style="background-color:#222222"type="submit" value="FindPhoneName" > <ion-icon name="search-outline" style="color:snow; font-size:20px;padding-top:7px; padding-left:2px;"></ion-icon></button>
-                    </label>
-                </form>
+                @using (Html.BeginForm("FindPhoneName", "Phone", FormMethod.Get))
+                {
+                    @Html.AntiForgeryToken()
+                    <div>
+                        <form class="form" style="padding-top:7px;padding-right:5px;">
+                            <input type="text" name="phoneName" placeholder="Search Phone" />
+                            <button type="submit">Search</button>
+                        </form>
+                    </div>
+                }
                 @Html.Partial("_LoginPartial")
             </div>
         </div>
