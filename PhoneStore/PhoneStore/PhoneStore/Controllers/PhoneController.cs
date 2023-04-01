@@ -51,11 +51,7 @@ namespace PhoneStore.Controllers
             return View(listPhone);
         }
 
-        public ActionResult FindNamePhone(string Name)
-        {
-            List<Phone> listPhone = dbContext.Phones.Where(m => m.PhoneName == Name ).ToList();
-            return View(listPhone);
-        }
+       
         public ActionResult Details(int? id)
         {
             if (id == null)

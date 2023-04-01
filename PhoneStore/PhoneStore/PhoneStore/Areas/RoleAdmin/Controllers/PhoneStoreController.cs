@@ -10,11 +10,12 @@ using System.Web.Mvc;
 
 namespace PhoneStore.Areas.RoleAdmin.Controllers
 {
+    [Authorize(Roles = "Admin")]
     public class PhoneStoreController : Controller
     {
         ApplicationDbContext dbContext = new ApplicationDbContext();
         // GET: RoleAdmin/PhoneStore
-        [Authorize(Roles = "Admin")]
+        /*[Authorize(Roles = "Admin")]*/
         public ActionResult Index()
         {
             List<Phone> listPhone = dbContext.Phones.ToList();
@@ -70,8 +71,8 @@ namespace PhoneStore.Areas.RoleAdmin.Controllers
             {
                 return HttpNotFound();
             }
-            dbContext.Phones.Remove(phone);
-            dbContext.SaveChanges();
+            /*dbContext.Phones.Remove(phone);
+            dbContext.SaveChanges();*/
             ViewBag.ManufacturerID = new SelectList(dbContext.Manufacturers, "ManufacturerID", "ManufacturerName", phone.ManufacturerID);
             return View(phone);
         }
