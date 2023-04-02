@@ -78,15 +78,35 @@ namespace PhoneStore.Areas.RoleAdmin.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "PhoneID,PhoneName,Price,PhoneImg,ManufacturerID")] Phone phone)
+        public ActionResult Edit([Bind(Include = "PhoneID,PhoneName,Price,PhoneImg,ManufacturerID")] Phone phone, HttpPostedFileBase PhoneImg)
         {
             if (ModelState.IsValid)
             {
+                if (PhoneImg != null && PhoneImg.ContentLength > 0)
+                    try
+                    {  //Server.MapPath takes the absolte path of folder 'Uploads'
+                        string path = Path.Combine(Server.MapPath("/Content/Image/"),
+                                       Path.GetFileName(PhoneImg.FileName));
+                        //Save file using Path+fileName take from above string
+                        PhoneImg.SaveAs(path);
+                        ViewBag.Message = "File uploaded successfully";
+                    }
+                    catch (Exception ex)
+                    {
+                        ViewBag.Message = "ERROR:" + ex.Message.ToString();
+                    }
+                else
+                {
+                    ViewBag.Message = "You have not specified a file.";
+                }
 
-                dbContext.Entry(phone).State = EntityState.Modified;
+                phone.PhoneImg = "/Content/Image/" + Path.GetFileName(PhoneImg.FileName);
+                dbContext.Phones.Remove(phone);
+                dbContext.Phones.Add(phone);
                 dbContext.SaveChanges();
                 return RedirectToAction("Index");
             }
+
             ViewBag.ManufacturerID = new SelectList(dbContext.Manufacturers, "ManufacturerID", "ManufacturerName", phone.ManufacturerID);
             return View(phone);
         }

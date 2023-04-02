@@ -2,78 +2,137 @@
 
 @{
     ViewBag.Title = "ViewCart";
-    /*Layout = "~/Areas/RoleAdmin/Views/Shared/_Layout - Admin.cshtml";*/
+    Layout = "~/Views/Shared/_Layout - Phone.cshtml";
 }
-
-
-
-<h2>ViewCart</h2>
-
+<hr />
 <!DOCTYPE html>
-
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <title>Index</title>
+    <title>Cart</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-bottom: 20px;
+        }
+
+        th, td {
+            text-align: center;
+            padding: 8px;
+            border: 1px solid black;
+        }
+
+        th {
+            background-color: #ddd;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .btn {
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            padding: 8px 16px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+
+            .btn:hover {
+                background-color: #3e8e41;
+            }
+
+        .btn-danger {
+            background-color: #f44336;
+        }
+
+            .btn-danger:hover {
+                background-color: #da190b;
+            }
+
+        .btn-success {
+            background-color: #4CAF50;
+        }
+
+            .btn-success:hover {
+                background-color: #3e8e41;
+            }
+
+        .btn-info {
+            background-color: #2196F3;
+        }
+
+            .btn-info:hover {
+                background-color: #0b7dda;
+            }
+    </style>
 </head>
 <body>
-
-    <h3>Cart Page</h3>
-    <table cellpadding="2" cellspacing="2" border="1">
-        <tr>
-
-            <th>PhoneId</th>
-            <th>PhoneName</th>
-            <th>Price</th>
-            <th>ManufacturerNmae</th>
-            <th>Quantity</th>
-            <th>Sub Total</th>
-        </tr>
-
-        @if ((List<Item>)Session["cart"] == null)
-        {
+    
+    <table>
+        <thead>
             <tr>
-                Empty product in Cart
+                <th>Product ID</th>
+                <th>Product Name</th>
+                <th>Price</th>
+                <th>Manufacturer</th>
+                <th>Quantity</th>
+                <th>Subtotal</th>
+                
             </tr>
-        }
-        else
-        {
-            foreach (Item item in (List<Item>)Session["cart"])
+        </thead>
+        <tbody>
+            @if ((List<Item>)Session["cart"] == null)
             {
                 <tr>
-                    <td><a href="@Url.Action("Remove", "Phone", new { id = item.Phone.PhoneID })">Remove</a></td>
-                    <td>@item.Phone.PhoneID</td>
-                    <td>@item.Phone.PhoneName</td>
-                    <td><img src="@item.Phone.PhoneImg" width="60" /> </td>
-                    <td>@item.Phone.Price</td>
-                    <td>
-                        <form action="/Phone/UpdateCart" method="post">
-                            <input type="number" min="1" name="Quantity" value="@item.Quantity" />
-                            <input type="hidden" value="@item.Phone.PhoneID" name="PhoneID" />
-                            <input type="submit" value="Update" />
-                        </form>
-                    </td>
-
-                    <td>@(item.Phone.Price * item.Quantity)</td>
-
+                    <td colspan="7">Your cart is empty</td>
                 </tr>
             }
-            <tr>
-                <td align="right" colspan="6">Sum</td>
-                <td>
-                    @{ List<Item> cart = (List<Item>)Session["cart"];
-                        var total = cart.Sum(item => item.Phone.Price * item.Quantity); }
-                    @total
-                </td>
-            </tr>
-        }
+            else
+            {
+                foreach (Item item in (List<Item>)Session["cart"])
+                {
+                    <tr>
+                        <td>@item.Phone.PhoneID</td>
+                        <td>@item.Phone.PhoneName</td>
 
-
+                        <td>@item.Phone.Price</td>
+                        @* <td>@item.Phone.ManufacturerName</td>*@
+                        <td>
+                            <form action="/Phone/UpdateCart" method="post">
+                                <input type="number" min="1" name="Quantity" value="@item.Quantity" />
+                                <input type="hidden" value="@item.Phone.PhoneID" name="PhoneID" />
+                                <input class="btn btn-success" type="submit" value="Update" />
+                            </form>
+                        </td>
+                        <td>@(item.Phone.Price * item.Quantity)</td>
+                        <td>
+                            <a class="btn btn-danger" href="@Url.Action("Remove", "Phone", new { id = item.Phone.PhoneID })">Remove</a>
+                        </td>
+                    </tr>
+                }
+                <tr>
+                    <td colspan="6" align="right">
+                        Total:@{
+                            List<Item> cart = (List<Item>)Session["cart"];
+                            var total = cart.Sum(item => item.Phone.Price * item.Quantity);
+                        }
+                        @total
+                    </td>
+                   
+                </tr>
+            }
+        </tbody>
     </table>
-    <br>
-    <a href="@Url.Action("Index", "Phone")">Continue Shopping</a>
-    <br>
-    <a href="@Url.Action("RemoveAll", "Phone")">Remove All</a>
-
+    <a class="btn btn-info" href="@Url.Action("Index", "Phone")">Continue Shopping</a>
+    <a class="btn btn-danger" href="@Url.Action("RemoveAll", "Phone")">Remove All</a>
 </body>
 </html>
