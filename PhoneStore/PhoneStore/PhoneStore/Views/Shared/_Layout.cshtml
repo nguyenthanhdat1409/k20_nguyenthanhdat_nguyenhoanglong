@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@using Microsoft.AspNet.Identity
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -11,11 +12,11 @@
 
     <link href="C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\css\login.css" rel="stylesheet" />
     <link href="C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\css\login.css" rel="stylesheet" />
-    @*@Scripts.Render("~/bundles/jquery")
-    @Scripts.Render("~/bundles/bootstrap")*@
+    @Scripts.Render("~/bundles/jquery")
+        @*@Scripts.Render("~/bundles/bootstrap")*@
     @RenderSection("scripts", required: false)
 
-   <link href="C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\css\tiemkiem.css" rel="stylesheet"/>
+    <link href="C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\css\tiemkiem.css" rel="stylesheet" />
 </head>
 <body style="margin:2px 2px;">
     <div class="navbar navbar-inverse navbar-fixed-top">
@@ -49,11 +50,11 @@
                 @Html.Partial("_LoginPartial")
             </div>
         </div>
-                    
+
     </div>
-  
-@RenderBody()
-        
+
+    @RenderBody()
+</body>
 <footer style="font-size:20px; text-align:center; color:black; background-color:#333333;border-radius:10px; margin:0px 10px; padding:10px 20px;">
     <p>Cảm ơn quý khách đã tin tưởng và ủng hộ</p>
     <p>Phone Store BA ANH EM <ion-icon name="heart-outline" style="color:red;"></ion-icon> </p>
@@ -61,8 +62,8 @@
     <a href="https://www.facebook.com/profile.php?id=100065084714229"><ion-icon name="logo-facebook">NTD</ion-icon> </a>
     <a href="https://www.tiktok.com">Nguyễn Thành Đạt - Nguyễn Hoàng Long - Trần Thành Long <ion-icon name="logo-tumblr"></ion-icon></a>
 </footer>
-    
 
-  
-</body>
+
+
+
 </html>

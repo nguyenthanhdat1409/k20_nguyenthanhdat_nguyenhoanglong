@@ -2,9 +2,10 @@
 
 @{
     ViewBag.Title = "Index";
+    @*Layout = "~/Views/Shared/_Layout.cshtml";*@
 }
 
-<h2>Index</h2>
+
 <style>
     :root {
         --bg-color: #3e3e3f;
@@ -449,25 +450,9 @@
     }
 </style>
 
-<p>
-    @Html.ActionLink("Create New", "Create")
-</p>
-<table class="table">
-    <tr>
-        <th>
-            @Html.DisplayNameFor(model => model.Manufacturer.ManufacturerName)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.PhoneName)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Price)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.PhoneImg)
-        </th>
 
-    </tr>
+<table class="table">
+    
 
     <div class="listing-cate">
         @foreach (var item in Model)
