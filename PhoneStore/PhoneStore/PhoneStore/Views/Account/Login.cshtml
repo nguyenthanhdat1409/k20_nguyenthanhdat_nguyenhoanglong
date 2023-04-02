@@ -2,6 +2,7 @@
 @model LoginViewModel
 @{
     ViewBag.Title = "Log in";
+    Layout = "~/Views/Shared/_Layout - Phone.cshtml";
 }
 <style>
     .card {
@@ -88,7 +89,7 @@
 <div class="row" style="margin-top:20px; margin-bottom:20px;">
     <div class="col-md-12" style=" display:flex;">
        
-        <section id="loginForm" style=" display: flex; justify-content: center; border: 2px solid red; margin:auto; border-radius:15px; background-color: #2A2B38; color:white;width:30%; height:40%; align-items:center;">
+        <section id="loginForm" style=" display: flex; justify-content: center; border: 2px solid red; margin: auto; background-color: #2A2B38; color:white;width:40%; border-radius:10px;">
 
             @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
             {
@@ -98,8 +99,8 @@
                 @Html.ValidationSummary(true, "", new { @class = "text-danger" })
                 <div class="form-group">
                    @* @Html.LabelFor(m => m.Email, new { @class = "col-md-2 control-label " })*@
-                    <div class="col-md-10">
-                        @Html.LabelFor(m => m.Email, new { @class = "col-md control-label " })
+                    <div class="col-md-12">
+                        @Html.LabelFor(m => m.Email, new { @class = " control-label " })
                         @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
                         @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
                     </div>

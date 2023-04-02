@@ -2,7 +2,8 @@
 
 @{
     ViewBag.Title = "Index1";
-    Layout = "~/Views/Shared/_Layout.cshtml";
+    /*    Layout = "~/Views/Shared/_Layout.cshtml";*/
+    Layout = "~/Views/Shared/_Layout - Phone.cshtml";
 }
 
 <h2>Index1</h2>
@@ -27,26 +28,27 @@
         <th></th>
     </tr>
 
-@foreach (var item in Model) {
-    <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.Manufacturer.ManufacturerName)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.PhoneName)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Price)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.PhoneImg)
-        </td>
-        <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.PhoneID }) |
-            @Html.ActionLink("Details", "Details", new { id=item.PhoneID }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.PhoneID })
-        </td>
-    </tr>
-}
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Manufacturer.ManufacturerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PhoneName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PhoneImg)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.PhoneID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.PhoneID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.PhoneID })
+            </td>
+        </tr>
+    }
 
 </table>

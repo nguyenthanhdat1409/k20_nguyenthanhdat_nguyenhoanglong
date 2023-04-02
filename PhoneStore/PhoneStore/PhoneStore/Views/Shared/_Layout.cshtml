@@ -12,47 +12,41 @@
 
     <link href="C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\css\login.css" rel="stylesheet" />
     <link href="C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\css\login.css" rel="stylesheet" />
-    @*@Scripts.Render("~/bundles/jquery")
-            @Scripts.Render("~/bundles/bootstrap")
-        @RenderSection("scripts", required: false)*@
+    @Scripts.Render("~/bundles/jquery")
+    @*@Scripts.Render("~/bundles/bootstrap")*@
+    <link href="~/css/bootstrap.css" rel="stylesheet" />
+
+
+
+
+    @RenderSection("scripts", required: false)
 
     <link href="C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\css\tiemkiem.css" rel="stylesheet" />
 </head>
-<body style="margin:2px 2px;">
-    <div class="navbar navbar-inverse navbar-fixed-top">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
+<body style="margin:2px 2px; padding-top:3px;">
+    <header style="display: flex; padding: 15px; justify-content: space-between; border-radius: 7px; margin-bottom: 15px ">
 
+        <ul class="nav navbar-nav" style="font-size: 15px;">
+            <li style="padding-left: 15px;">@Html.ActionLink("Home", "Index", "Home")</li>
+            <li style="padding-left: 15px;">@Html.ActionLink("Khuyến Mãi", "About", "Home")</li>
+            <li style="padding-left: 15px;">@Html.ActionLink("Liên hệ", "Contact", "Home")</li>
+            <li style="padding-left: 15px;"><a href="~/Phone/ViewCart"><ion-icon name="cart-outline" style="color:red; font-size:20px;"></ion-icon></a></li>
+
+        </ul>
+        @using (Html.BeginForm("FindPhoneName", "Phone", FormMethod.Get))
+        {
+            @Html.AntiForgeryToken()
+            <div>
+                <form class="form" style="">
+                    <input type="text" name="phoneName" placeholder="Search Phone" />
+                    <button type="submit">Search</button>
+                </form>
             </div>
-            <div class="navbar-collapse collapse" style="height:20px; background-image:url('C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\images\banner-bg.png');">
-                <ul class="nav navbar-nav" style="font-size: 15px ">
-                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
-                    <li>@Html.ActionLink("Khuyến Mãi", "About", "Home")</li>
-                    <li>@Html.ActionLink("Liên hệ", "Contact", "Home")</li>
-                    <li><a href="~/Phone/ViewCart"><ion-icon name="cart-outline" style="color:red; font-size:20px;"></ion-icon></a></li>
+        }
+        @Html.Partial("_LoginPartial")
 
-                </ul>
-                @using (Html.BeginForm("FindPhoneName", "Phone", FormMethod.Get))
-                {
-                    @Html.AntiForgeryToken()
-                    <div>
-                        <form class="form" style="padding-top:7px;padding-right:5px;">
-                            <input type="text" name="phoneName" placeholder="Search Phone" />
-                            <button type="submit">Search</button>
-                        </form>
-                    </div>
-                }
-                @Html.Partial("_LoginPartial")
-            </div>
-        </div>
 
-    </div>
-
+    </header>
     @RenderBody()
 
     <footer style="font-size:20px; text-align:center; color:black; background-color:#333333;border-radius:10px; margin:0px 10px; padding:10px 20px;">
