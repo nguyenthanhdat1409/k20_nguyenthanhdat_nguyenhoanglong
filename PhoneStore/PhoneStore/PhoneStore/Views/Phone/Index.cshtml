@@ -2,8 +2,13 @@
 
 @{
     ViewBag.Title = "Index";
-    @*Layout = "~/Views/Shared/_Layout.cshtml";*@
+    Layout = "~/Views/Shared/_Layout - Phone.cshtml";
 }
+
+
+
+
+
 
 
 <style>
@@ -450,9 +455,69 @@
     }
 </style>
 
+@*<div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
 
+        </div>
+        <div class="navbar-collapse " style="margin-top: 10px; height: 30px; display: flex;">
+            <ul class="nav navbar-nav" style="font-size: 15px; margin:15px;padding:15px">
+                <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                <li>@Html.ActionLink("Khuyến Mãi", "About", "Home")</li>
+                <li>@Html.ActionLink("Liên hệ", "Contact", "Home")</li>
+                <li><a href="~/Phone/ViewCart"><ion-icon name="cart-outline" style="color:red; font-size:20px;"></ion-icon></a></li>
+
+            </ul>
+            @using (Html.BeginForm("FindPhoneName", "Phone", FormMethod.Get))
+            {
+                @Html.AntiForgeryToken()
+                <div>
+                    <form class="form" style="padding-top:7px;padding-right:5px;">
+                        <input type="text" name="phoneName" placeholder="Search Phone" />
+                        <button type="submit">Search</button>
+                    </form>
+                </div>
+            }
+            @Html.Partial("_LoginPartial")
+        </div>
+    </div>
+
+</div>*@
+<div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div class="navbar-collapse collapse" style="height:20px; background-image:url('~/images/banner-bg.png');">
+            <ul class="nav navbar-nav" style="font-size: 15px ">
+                <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                <li>@Html.ActionLink("Khuyến Mãi", "About", "Home")</li>
+                <li>@Html.ActionLink("Liên hệ", "Contact", "Home")</li>
+                <li><a href="~/Phone/ViewCart"><ion-icon name="cart-outline" style="color:red; font-size:20px;"></ion-icon></a></li>
+            </ul>
+            @using (Html.BeginForm("FindPhoneName", "Phone", FormMethod.Get))
+            {
+                @Html.AntiForgeryToken()
+                <div style="padding-top:7px;padding-right:5px;">
+                    <input type="text" name="phoneName" placeholder="Search Phone" />
+                    <button type="submit">Search</button>
+                </div>
+            }
+            @Html.Partial("_LoginPartial")
+        </div>
+    </div>
+</div>
 <table class="table">
-    
+
 
     <div class="listing-cate">
         @foreach (var item in Model)

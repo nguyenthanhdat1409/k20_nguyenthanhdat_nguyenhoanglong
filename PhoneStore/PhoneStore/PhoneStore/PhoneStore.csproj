@@ -2201,6 +2201,7 @@
     <Content Include="Views\Phone\SortNameDescending.cshtml" />
     <Content Include="Views\Phone\SortNameIncreasing.cshtml" />
     <Content Include="Views\Phone\FindPhoneName.cshtml" />
+    <Content Include="Views\Shared\_Layout - Phone.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
