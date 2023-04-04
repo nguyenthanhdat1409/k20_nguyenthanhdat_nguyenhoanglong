@@ -1,0 +1,85 @@
+﻿@{
+    ViewBag.Title = "Contact";
+    Layout = "~/Views/Shared/_Layout - Phone.cshtml";
+}
+<hr />
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Table</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th {
+            background-color: #f2f2f2;
+            font-size: 16px;
+            font-weight: normal;
+            padding: 8px;
+            text-align: center;
+        }
+
+        td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .name {
+            font-size: 16px;
+            font-weight: bold;
+            margin-top: 8px;
+        }
+        img {
+            width: 300px;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr style="font-size:23px; color: mediumvioletred;">
+                <th>Trưởng phòng marketing</th>
+                <th>Trưởng phòng kỹ thuật</th>
+                <th>Trưởng phòng nhân sự</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    
+                    <img src="~/images/hinhdat.jpg" style="height:60%;" alt="Image 1"><p class="name">Nguyễn Thành Đạt 
+               <br /> <a href="https://www.facebook.com/profile.php?id=100065084714229"><ion-icon name="logo-facebook" style="padding-right:4px;">fb.n.thanhdat</ion-icon>n.thanhdat</a>
+                   </p>
+                </td>
+                <td>
+                    
+                    <img src="~/images/hinhlongn.jpg" style="height:60%;" alt="Image 2"><p class="name">
+    Nguyễn Hoàng Long
+    <br />
+    <a href="https://www.facebook.com/LongHoangg5602"><ion-icon name="logo-facebook" style="padding-right:4px;">fb.n.hoanglong</ion-icon>n.hoanglong</a>
+</p>
+
+                </td>
+                <td>
+                    
+                    <img src="~/images/hinhlongt.jpg" style="height:60%;" alt="Image 3"><p class="name">
+    Trần Thành Long
+    <br />
+    <a href="https://www.facebook.com/thanhlong.tran.946" style="padding-right:4px;"><ion-icon name="logo-facebook">fb.n.thanhdat</ion-icon>t.thanhlong</a>
+</p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+

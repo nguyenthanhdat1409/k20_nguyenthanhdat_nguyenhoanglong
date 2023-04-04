@@ -1,0 +1,59 @@
+﻿@using Microsoft.AspNet.Identity
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+
+    <link href="C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\css\login.css" rel="stylesheet" />
+    <link href="C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\css\login.css" rel="stylesheet" />
+    @Scripts.Render("~/bundles/jquery")
+    @*@Scripts.Render("~/bundles/bootstrap")*@
+<link href="~/css/bootstrap.css" rel="stylesheet" />
+    @RenderSection("scripts", required: false)
+
+    <link href="C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\css\tiemkiem.css" rel="stylesheet" />
+</head>
+<body style="margin:2px 2px; padding-top:3px;">
+    <header style="display: flex; padding: 15px; justify-content: space-between; border-radius: 7px; margin-bottom: 15px; background-color: #333333; ">
+
+        <ul class="nav navbar-nav" style="font-size: 15px;">
+            <li style="padding-left: 15px;">@Html.ActionLink("Home", "Index", "Home")</li>
+            <li style="padding-left: 15px;">@Html.ActionLink("Khuyến Mãi", "About", "Home")</li>
+            <li style="padding-left: 15px;">@Html.ActionLink("Liên hệ", "Contact", "Home")</li>
+            <li style="padding-left: 15px;"><a href="~/Phone/ViewCart"><ion-icon name="cart-outline" style="color:red; font-size:20px;"></ion-icon></a></li>
+
+        </ul>
+        @using (Html.BeginForm("FindPhoneName", "Phone", FormMethod.Get))
+        {
+            @Html.AntiForgeryToken()
+            <div>
+                <form class="form" style="">
+                    <input type="text" name="phoneName" placeholder="Search Phone" />
+                    <button type="submit">Search</button>
+                </form>
+            </div>
+        }
+        @Html.Partial("_LoginPartial")
+       
+
+    </header>
+    @RenderBody()
+
+    <footer style="font-size:20px; text-align:center; color:black; background-color:#333333;border-radius:10px; margin:0px 10px; padding:10px 20px;">
+        <p>Cảm ơn quý khách đã tin tưởng và ủng hộ</p>
+        <p>Phone Store BA ANH EM <ion-icon name="heart-outline" style="color:red;"></ion-icon> </p>
+        <p>&copy; @DateTime.Now.Year - 58/2c Trương Văn Thành, P. Hiệp Phú, Quận 9, TP.HCM</p>
+        <a href="https://www.facebook.com/profile.php?id=100065084714229"><ion-icon name="logo-facebook">NTD</ion-icon> </a>
+        <a href="https://www.tiktok.com">Nguyễn Thành Đạt - Nguyễn Hoàng Long - Trần Thành Long <ion-icon name="logo-tumblr"></ion-icon></a>
+    </footer>
+
+
+
+</body>
+</html>

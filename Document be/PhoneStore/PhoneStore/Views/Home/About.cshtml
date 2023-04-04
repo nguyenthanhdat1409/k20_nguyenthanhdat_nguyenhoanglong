@@ -1,0 +1,81 @@
+﻿@{
+    ViewBag.Title = "Chương Trình Khuyến Mãi";
+    Layout = "~/Views/Shared/_Layout - Phone.cshtml";
+}
+@*<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>*@
+<hr />
+<hr />
+<h1 style="text-align:center;color:darkred;">Mua càng nhiều, khuyến mãi cực chất,... Chỉ có ở Phone Store</h1>
+
+<script>
+    // Set the date we're counting down to
+    var countDownDate = new Date("Mar 31, 2023 23:59:59").getTime();
+
+    // Update the count down every 1 second
+    var x = setInterval(function () {
+
+        // Get today's date and time
+        var now = new Date().getTime();
+
+        // Find the distance between now and the countdown date
+        var distance = countDownDate - now;
+
+        // Time calculations for days, hours, minutes and seconds
+        var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+        // Display the result in the element with id="timer"
+        document.getElementById("timer").innerHTML = days + " Ngày " + hours + " Giờ "
+            + minutes + " Phút " + seconds + " Giây ";
+
+        // If the count down is finished, write some text
+        if (distance < 0) {
+            clearInterval(x);
+            document.getElementById("timer").innerHTML = "EXPIRED";
+        }
+    }, 1000);
+</script>
+
+<div class="hinh">
+
+    <section class="wrapper page1 kvs kvs__3159 c3 video " style=" background-repeat: no-repeat;">
+        <div class="bg" style=" background-repeat:no-repeat;background-image: url(&quot;https://cdn.tgdd.vn/2023/03/campaign/Camera-1-1920x577.png&quot; )";>
+        </div> 
+    </section>
+    <br />
+
+
+
+    <section class="wrapper page1 kvs kvs__3169 c4 video">
+        <div class="bg" style=" background-image: url(&quot;https://cdn.tgdd.vn/2023/03/campaign/120HZ-1920x574.png&quot;);">
+        </div>
+    </section>
+    <br />
+
+    <div class="bg" style=" background-image: url(&quot;https://cdn.tgdd.vn/2023/03/campaign/Thiet-ke-mau-sac-1920x818.png&quot;);">
+    </div>
+
+    <section class="wrapper" style="height:672px;background-image:url(https://cdn.tgdd.vn/2023/02/campaign/MHD-OPTION-4---LAN-2-1920x672.png)">
+        @* <div class="link-popup">
+             <a href="javascript:PopupHTML(4130)">Xem Ngay </a>
+            </div>*@
+    </section>
+
+</div>
+
+<p style="font-size:20px;">
+    <ion-icon name="bicycle-outline" style="color:black; font-size:18px;"></ion-icon><span style="font-weight:700; margin-left:3px;">Về giao hàng:</span>
+    <br />
+    - Sản phẩm không lắp đặt: Miễn phí giao hàng ngay.
+    <br />
+    - Sản phẩm lắp đặt: Miễn phí mọi chi phí phát sinh.
+    <br />
+    <ion-icon name="pricetags-outline" style="color:black; font-size:18px;"></ion-icon><span style="font-weight: 700; margin-left: 3px;">Đã thanh toán:</span>
+    <br />
+    Tùy sản phẩm, tùy chương trình mà sẽ được áp dụng kèm các khuyến mãi khác hoặc trả góp với các gói lãi suất đặc biệt (0%, 0.5%, 1.25%...).<br />
+    Mọi thông tin thắc mắc vui lòng comment bên dưới hoặc liên hệ tổng đài 07972880123. Xin cảm ơn!
+
+</p>

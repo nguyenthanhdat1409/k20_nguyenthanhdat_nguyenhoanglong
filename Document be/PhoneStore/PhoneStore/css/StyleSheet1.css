@@ -1,0 +1,16 @@
+﻿.hinh{
+    display:fex;
+    height:20rem;
+    gap:1rem;
+}
+.hinh >div{
+    flex:1;
+    border-radius:1rem;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:auto 100%;
+    transition: all .8s cubic-bezier(.25, .4, .45, 1.4)
+}
+.hinh >div:hover{
+    flex:5;
+}
