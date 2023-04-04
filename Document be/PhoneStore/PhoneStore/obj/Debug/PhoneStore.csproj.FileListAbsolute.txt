@@ -1,0 +1,622 @@
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\PhoneStore.dll.config
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\PhoneStore.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\PhoneStore.pdb
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\csc.exe
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\csc.exe.config
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\csc.rsp
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\csi.exe
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\csi.exe.config
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\csi.rsp
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.AppContext.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.Collections.Immutable.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.Console.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.IO.Compression.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.IO.FileSystem.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.Net.Http.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.Net.Sockets.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.ValueTuple.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.Xml.XPath.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\vbc.exe
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\vbc.exe.config
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\vbc.rsp
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\VBCSCompiler.exe
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\roslyn\VBCSCompiler.exe.config
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Antlr3.Runtime.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\EntityFramework.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\EntityFramework.SqlServer.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.Owin.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Google.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.Web.Infrastructure.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Newtonsoft.Json.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Owin.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\System.Web.Helpers.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\System.Web.Mvc.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\System.Web.Optimization.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\System.Web.Razor.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\System.Web.WebPages.Deployment.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\System.Web.WebPages.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\System.Web.WebPages.Razor.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\WebGrease.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\System.Web.Helpers.xml
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\System.Web.Mvc.xml
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\System.Web.Optimization.xml
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\System.Web.Razor.xml
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\System.Web.WebPages.xml
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\System.Web.WebPages.Deployment.xml
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\System.Web.WebPages.Razor.xml
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Newtonsoft.Json.xml
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Antlr3.Runtime.pdb
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\EntityFramework.xml
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\EntityFramework.SqlServer.xml
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.Owin.xml
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.xml
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Google.xml
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\obj\Debug\PhoneStore.csproj.AssemblyReference.cache
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\obj\Debug\PhoneStore.csproj.CoreCompileInputs.cache
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\obj\Debug\PhoneStore.csproj.CopyComplete
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\obj\Debug\PhoneStore.dll
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\obj\Debug\PhoneStore.pdb
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\obj\Debug\PhoneStore.Migrations.initTable.resources
+C:\DevWeb\LearnbySelf\PhoneStore\PhoneStore\obj\Debug\PhoneStore.csproj.GenerateResource.cache
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\PhoneStore.dll.config
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\PhoneStore.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\PhoneStore.pdb
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csc.exe
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csc.exe.config
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csc.rsp
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csi.exe
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csi.exe.config
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csi.rsp
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.AppContext.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Console.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Net.Http.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\vbc.exe
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\vbc.exe.config
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\vbc.rsp
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Antlr3.Runtime.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\EntityFramework.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\EntityFramework.SqlServer.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Newtonsoft.Json.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Owin.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Helpers.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Mvc.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Optimization.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Razor.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\WebGrease.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\EntityFramework.xml
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\EntityFramework.SqlServer.xml
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Helpers.xml
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Mvc.xml
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Optimization.xml
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Razor.xml
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.xml
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Newtonsoft.Json.xml
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Antlr3.Runtime.pdb
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.xml
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.xml
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.csproj.AssemblyReference.cache
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.Migrations.initTable.resources
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.csproj.GenerateResource.cache
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.csproj.CoreCompileInputs.cache
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.csproj.CopyComplete
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.dll
+C:\Users\nhoxl\Downloads\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.pdb
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\PhoneStore.dll.config
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\PhoneStore.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\PhoneStore.pdb
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csc.exe
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csc.rsp
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csi.exe
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csi.rsp
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Net.Http.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\vbc.exe
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\EntityFramework.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Owin.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\WebGrease.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\EntityFramework.xml
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.xml
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.xml
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.Migrations.initTable.resources
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.dll
+C:\Users\ADMIN\Downloads\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.pdb
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\PhoneStore.dll.config
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\PhoneStore.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\PhoneStore.pdb
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csc.exe
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csc.rsp
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csi.exe
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csi.rsp
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Net.Http.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\vbc.exe
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\EntityFramework.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Owin.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Razor.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\WebGrease.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\EntityFramework.xml
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Razor.xml
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.xml
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.xml
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.Migrations.initTable.resources
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.dll
+C:\Users\ADMIN\OneDrive\Desktop\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.pdb
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\PhoneStore.dll.config
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\PhoneStore.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\PhoneStore.pdb
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csc.exe
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csc.exe.config
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csc.rsp
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csi.exe
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csi.exe.config
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csi.rsp
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\vbc.exe
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\vbc.exe.config
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\vbc.rsp
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Antlr3.Runtime.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\EntityFramework.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\EntityFramework.SqlServer.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Newtonsoft.Json.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Owin.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Helpers.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Mvc.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Optimization.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Razor.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\WebGrease.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\EntityFramework.xml
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\EntityFramework.SqlServer.xml
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Helpers.xml
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Mvc.xml
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Optimization.xml
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Razor.xml
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.xml
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Newtonsoft.Json.xml
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Antlr3.Runtime.pdb
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.xml
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.xml
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.csproj.AssemblyReference.cache
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.Migrations.initTable.resources
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.csproj.GenerateResource.cache
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.csproj.CoreCompileInputs.cache
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.csproj.CopyComplete
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.pdb
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Buffers.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Memory.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nhoxl\OneDrive\Máy tính\K20_DoAn\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\PhoneStore.dll.config
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\PhoneStore.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\PhoneStore.pdb
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csc.exe
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csc.rsp
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csi.exe
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\csi.rsp
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Buffers.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Memory.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\vbc.exe
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\EntityFramework.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Owin.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Razor.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\WebGrease.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\EntityFramework.xml
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.xml
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.xml
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Razor.xml
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.Migrations.initTable.resources
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.dll
+C:\Users\ADMIN\OneDrive\Pictures\k20_nguyenthanhdat_nguyenhoanglong\PhoneStore\PhoneStore\PhoneStore\obj\Debug\PhoneStore.pdb
